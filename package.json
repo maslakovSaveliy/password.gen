@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "generate-password": "^1.7.0",
+    "passfather": "^3.0.3"
+  }
+}
